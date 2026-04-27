@@ -1,1 +1,15 @@
-{"version":"0.0.0","platforms":{}}
+{
+  "version": "0.0.0-test-selfhosted",
+  "notes": "Majordomo Editor v0.0.0-test-selfhosted",
+  "pub_date": "2026-04-27T01:40:50Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "",
+      "url": "https://github.com/majordomobuild/releases/releases/download/v0.0.0-test-selfhosted/Majordomo.Editor.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "",
+      "url": "https://github.com/majordomobuild/releases/releases/download/v0.0.0-test-selfhosted/Majordomo.Editor.app.tar.gz"
+    }
+  }
+}
