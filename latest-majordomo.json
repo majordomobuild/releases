@@ -1,11 +1,11 @@
 {
-  "version": "0.11.0",
-  "notes": "Majordomo majordomo-v0.11.0",
-  "pub_date": "2026-06-04T22:13:27Z",
+  "version": "0.14.1",
+  "notes": "Majordomo majordomo-v0.14.1",
+  "pub_date": "2026-06-27T00:37:16Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNVF0Y1FvSjlkNnU2bWFiVnhrL0xib0J3b2RQd3AyY1JvYkFuTE1xR2RycHVnZ2VYYzc4NmNxRW90c2NwdmwvamNVZXZoZUdFL2pOUWxYMkdDWlFvOVd6SU1QSHQ5bFFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNjEwODk1CWZpbGU6bWFqb3Jkb21vLmFwcC50YXIuZ3oKYnFseHIzYWg5M3NVVE5lMWk3L1hZYVJzQnZyTXZ5VkNhZ1NOUG5FbTRUa0RhTkQyRTNKd1F4VHk0eVFYMWtNNjRmalQydGQ4dE1TNVFSS1hncWF6QkE9PQo=",
-      "url": "https://github.com/majordomobuild/releases/releases/download/majordomo-v0.11.0/majordomo.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNVF0Y1FvSjlkNnViSzYvaXF6VUh2UVJ2S05EMXhEcFBVdTNWNjZ1WXBtampKOTJXM3I4M295UXhVYUlaUjcwd1N1YlBkOGMzK3ZMVVdDUmplM3hZY29NTkpWTnl3eVFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNTIwMzkwCWZpbGU6bWFqb3Jkb21vLmFwcC50YXIuZ3oKcEx4RDl3Y1hlM2xrM1NpNVhkMVJ5a1B3RklFMjVIWWF0Q1cwdU8vRzhza2VKSldDWGxLcEl0VjZ6a0FLNnc3N1hoamZhdFlYSlNYREk3dytjS09pQ3c9PQo=",
+      "url": "https://github.com/majordomobuild/releases/releases/download/majordomo-v0.14.1/majordomo.app.tar.gz"
     }
   }
 }
