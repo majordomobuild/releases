@@ -1,11 +1,11 @@
 {
-  "version": "0.8.0",
-  "notes": "Mozaic mozaic-v0.8.0",
-  "pub_date": "2026-06-04T22:04:08Z",
+  "version": "0.9.0",
+  "notes": "Mozaic mozaic-v0.9.0",
+  "pub_date": "2026-06-28T18:52:03Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNVF0Y1FvSjlkNmxoQWtSanZBUlZrei9vb3RXekt3bFh5VGx6Mkw0RE5id3NIQTNlTlYzdDFzMk4wdHVRTUNocjlFYSt0dDlRem50OXgyVk42T0g3MnB3UWtLL1YybmdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNjEwNDA4CWZpbGU6TW96YWljLmFwcC50YXIuZ3oKV1d4Y3JBaUFkT1VoTXR2WGVVUXR0UVJwZlhUVDREVHZMeE9tcGUzV1FlN1g0TXRHbkwzdDdxMTdQcHEvdnpiMFNTSHhib0p1Tlh0RERwOE8zUDI3Q2c9PQo=",
-      "url": "https://github.com/majordomobuild/releases/releases/download/mozaic-v0.8.0/Mozaic.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNVF0Y1FvSjlkNnJBYXpCTzVtOHJ5UXBvZVdmay9OYVpTVmRUOHk4VnlwbzI2QmMwRXczN0gvUTFEVElkV2R3eUF4UkZvL0xnckNvSlBLcGh2bElhWEtxOXhtV2sxNlFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNjcyNDY5CWZpbGU6TW96YWljLmFwcC50YXIuZ3oKSHNXa05Vc1d2b1ZiNnhVeE1nTnUzRjlWNnpnTllYYVBYZU9YaE15RmtGbjBoWGJMOVcxWU1IN2IrWFFjYmQvUWRPdGN4eHZyNkI0cFZJMzlubUhOQmc9PQo=",
+      "url": "https://github.com/majordomobuild/releases/releases/download/mozaic-v0.9.0/Mozaic.app.tar.gz"
     }
   }
 }
