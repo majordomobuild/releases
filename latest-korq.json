@@ -1,11 +1,11 @@
 {
-  "version": "0.15.0",
-  "notes": "Korq korq-v0.15.0",
-  "pub_date": "2026-07-04T11:56:03Z",
+  "version": "0.16.0",
+  "notes": "Korq korq-v0.16.0",
+  "pub_date": "2026-07-04T15:45:13Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNVF0Y1FvSjlkNnBKV1Q4UlRhTmhQRWZIU0xReU5TQW5FRldEeXpHSDhNcEMzK2cwcDYvaExjSWpXQU5acUNOVEl1dXVmV3BHVnJDWDlDTmNvSitjV3IzQ3ZYZnhkOVFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMTY1NzQxCWZpbGU6S29ycS5hcHAudGFyLmd6CnFacHRyekx3K1JKcGVkUjBwTWlPa1UzQ3FLTG94bEhYT1AyZlVIU3B6UEt2N2J0QVQxRGNGU1V6M0dwbGd0bnJPQTNpTTZzV0NpYVQ2b294R0pvekNRPT0K",
-      "url": "https://github.com/majordomobuild/releases/releases/download/korq-v0.15.0/Korq.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNVF0Y1FvSjlkNmh6ZEJaSU1qYVFzaVU0ZExFbHgweGtOVlVQWHp4UUJPMFIwT0VHdTJ4SUdpa1JiczRSMllyOVhHazZjVVpsNnVDR0pEdHE2VGwrN0FWU3BxNGFiV1EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMTc5NjQ4CWZpbGU6S29ycS5hcHAudGFyLmd6CnRWOWlwUjc1WWxQcTltSDF1VGRESEZTRGN0VVpiSWRjZS9CU2tUdTQ0MEEyVXV2T3ljS0JFRnlIYTkzb0NsakozdDlLYlF4MWVIODRjTUlvc0JqR0NRPT0K",
+      "url": "https://github.com/majordomobuild/releases/releases/download/korq-v0.16.0/Korq.app.tar.gz"
     }
   }
 }
