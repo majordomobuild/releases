@@ -1,11 +1,11 @@
 {
-  "version": "1.90.1",
-  "notes": "Kogent kogent-v1.90.1",
-  "pub_date": "2026-11-09T03:53:17Z",
+  "version": "1.92.0",
+  "notes": "Kogent kogent-v1.92.0",
+  "pub_date": "2026-11-09T21:11:32Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNVF0Y1FvSjlkNmpQWTNSSkY2SFIzdytSSXJlNlpYY0xycmNMVTBnc1Q5TVBKNUUrUDNNelVRZFVVM1hZR3c4UUQ3WktxcGU5cXo0S0w3VTFOMVdLcnByUGhzUFowV2dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTk2MTU4CWZpbGU6a29nZW50LmFwcC50YXIuZ3oJdmVyc2lvbjoxLjkwLjEKSG0xRVc2bUxDbWNDblhWcGp3ZERFMHd4UkJtTUo5aUljRDFNby9ncVVydE9lTFhMdDFhQnFZMzNRakpTaE4rcU91S1M2dkJBRnh5bnUrajRyajE1Q3c9PQo=",
-      "url": "https://github.com/majordomobuild/releases/releases/download/kogent-v1.90.1/kogent.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNVF0Y1FvSjlkNnNNNENadkg1S2lXVHRXUVA0dHFaOFRINnhaT0lPc01CZ1dvYUhDNUpKSERKY2IrNjg2b1MwOURVU0xnTVoycDl3WUdqaUpRZm5sU0VVeXZPMjBKQVE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjU3MTI5CWZpbGU6a29nZW50LmFwcC50YXIuZ3oJdmVyc2lvbjoxLjkyLjAKY3dxWWlqa3VVMXRiU0tETkdKOVZhL01CamJKRWNhdWc3ejhVVzZGa3M5ZGNGZXB1TW4zOEp1amVELzF0b3FmaDdDVmkydnNKNVJSOStyaWQzeVkzQXc9PQo=",
+      "url": "https://github.com/majordomobuild/releases/releases/download/kogent-v1.92.0/kogent.app.tar.gz"
     }
   }
 }
