@@ -1,12 +1,12 @@
 {
-  "version": "1.102.0",
-  "notes": "Kogent kogent-v1.102.0",
-  "pub_date": "2026-11-12T18:57:13Z",
+  "version": "1.103.0",
+  "notes": "Kogent kogent-v1.103.0",
+  "pub_date": "2026-11-12T20:39:40Z",
   "requires": ["prompts.run", "prompt:featureSummary.draft", "prompt:featureOutcome.draft", "prompt:requirements.draftFromText", "prompt:specImpact.classify", "prompt:specImpact.assess", "prompt:bug.suggestFeature", "prompt:roadmap.planImport", "prompt:newApp.describe", "prompt:specGraph.reword", "prompt:specGraph.readScenario", "prompt:specGraph.illustrationRow", "prompt:specGraph.contradicts", "prompt:specGraph.followUpRequirements", "prompt:agent.converse", "prompt:agent.customers", "prompt:agent.caseFromReply", "prompt:mermaid.author", "prompt:mermaid.repair", "prompt:prose.rewrite"],
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNVF0Y1FvSjlkNmpBU0ZldjF6eWNUL2JwZkVoSjBmclViZE1abXZtU0RydUdUMVhjZDFoeDBwNHJEWHJPVFlXaGJ1Y2NPVk1Ram0zODN5MXdqNkkxQlVQU0V0MUdQa3c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTA5ODAzCWZpbGU6a29nZW50LmFwcC50YXIuZ3oJdmVyc2lvbjoxLjEwMi4wCktaTHhZK0t0ajE0b2d6dHFOOEQ2MFVISmRLTHN5Nng0dFczMzFQRHNkVXI1MW9rblRhZ29TeTd0YlpDeGVXVzMwMnlUSW0yU0k3aDlEWEdMMmh4NUNBPT0K",
-      "url": "https://github.com/majordomobuild/releases/releases/download/kogent-v1.102.0/kogent.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNVF0Y1FvSjlkNnBqUCtXaFg3and6elZacGkySHJVUXZDaHlZMG1MQWc2WXp1V00wNForU3RCOFVjMUZIQnd6OEhzUnFhN00ybVNhT3hySVMwY2UzNWFLeEU3THZ5VndnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTE1OTUxCWZpbGU6a29nZW50LmFwcC50YXIuZ3oJdmVyc2lvbjoxLjEwMy4wClRYRlJqNGRjQ1doU2xvaWt3OEhocTRLOHpGLzcvRXhyOVU4VWwxeXN3Zi8rM0lSVG96L3IwU255c2xCYlNjVXhTYjVjakxBMm96WDhXZFlQTzhscUFBPT0K",
+      "url": "https://github.com/majordomobuild/releases/releases/download/kogent-v1.103.0/kogent.app.tar.gz"
     }
   }
 }
