@@ -1,12 +1,12 @@
 {
-  "version": "1.105.1",
-  "notes": "Kogent kogent-v1.105.1",
-  "pub_date": "2026-11-13T11:19:20Z",
+  "version": "1.105.2",
+  "notes": "Kogent kogent-v1.105.2",
+  "pub_date": "2026-11-13T14:06:16Z",
   "requires": ["prompts.run", "prompt:featureSummary.draft", "prompt:featureOutcome.draft", "prompt:requirements.draftFromText", "prompt:specImpact.classify", "prompt:specImpact.assess", "prompt:bug.suggestFeature", "prompt:roadmap.planImport", "prompt:newApp.describe", "prompt:specGraph.reword", "prompt:specGraph.readScenario", "prompt:specGraph.illustrationRow", "prompt:specGraph.contradicts", "prompt:specGraph.followUpRequirements", "prompt:agent.converse", "prompt:agent.customers", "prompt:agent.caseFromReply", "prompt:mermaid.author", "prompt:mermaid.repair", "prompt:prose.rewrite", "prompt:requirementComposer.converse", "prompt:specValidator.analysis", "prompts.turn", "prompt:assistant.chat", "prompt:assistant.chat.propose", "specGraph.accessRules"],
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNVF0Y1FvSjlkNmhjM001WWtQWVJzQXRFWGJTWGVzTVhIMjVDZmNsQkVEUXdhaTZseFBmNFoxeHRKUisxOW8yMmdXUXBFQjFUOGVwNWswcmhYNXBCeWhUKzFnU2kvSEE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTY4NzI4CWZpbGU6a29nZW50LmFwcC50YXIuZ3oJdmVyc2lvbjoxLjEwNS4xCjMrdllicnFzWDVYWjIvVkJBbVd6WDJkQWdZTkVWNk9tZTVEMzZuMzNtUzRUYU12QWliMjhwcUw0bS9xdEg5Uk1rby8rN1lWY1ZLVzVyK2QrS1JjUENRPT0K",
-      "url": "https://github.com/majordomobuild/releases/releases/download/kogent-v1.105.1/kogent.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNVF0Y1FvSjlkNnNoZW5nSUZCYXVNM3R3blNNRkFpejFmRG5OdmFVeVBsRTJUa2xzWldFb0VXT2paMGJ5Mmh5eEpQaWFhc05yYVNBN09nUkk1SHhicnkxMkxuNHU1d1FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTc4NTk1CWZpbGU6a29nZW50LmFwcC50YXIuZ3oJdmVyc2lvbjoxLjEwNS4yCmJ1Ujh1eExUUmJXS2tjZnNITUU3dDBNenBMa2dqckFMODE0MW5IalVMY0s3dFVPc3JCc2pITWdJZHNYT1EwWC81V3lPaDBQQ2ZwR1d5YnZIVGRRZUJ3PT0K",
+      "url": "https://github.com/majordomobuild/releases/releases/download/kogent-v1.105.2/kogent.app.tar.gz"
     }
   }
 }
