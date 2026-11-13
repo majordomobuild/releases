@@ -1,12 +1,12 @@
 {
-  "version": "1.104.0",
-  "notes": "Kogent kogent-v1.104.0",
-  "pub_date": "2026-11-12T22:01:17Z",
-  "requires": ["prompts.run", "prompt:featureSummary.draft", "prompt:featureOutcome.draft", "prompt:requirements.draftFromText", "prompt:specImpact.classify", "prompt:specImpact.assess", "prompt:bug.suggestFeature", "prompt:roadmap.planImport", "prompt:newApp.describe", "prompt:specGraph.reword", "prompt:specGraph.readScenario", "prompt:specGraph.illustrationRow", "prompt:specGraph.contradicts", "prompt:specGraph.followUpRequirements", "prompt:agent.converse", "prompt:agent.customers", "prompt:agent.caseFromReply", "prompt:mermaid.author", "prompt:mermaid.repair", "prompt:prose.rewrite", "prompt:requirementComposer.converse", "prompt:specValidator.analysis"],
+  "version": "1.105.0",
+  "notes": "Kogent kogent-v1.105.0",
+  "pub_date": "2026-11-13T03:01:49Z",
+  "requires": ["prompts.run", "prompt:featureSummary.draft", "prompt:featureOutcome.draft", "prompt:requirements.draftFromText", "prompt:specImpact.classify", "prompt:specImpact.assess", "prompt:bug.suggestFeature", "prompt:roadmap.planImport", "prompt:newApp.describe", "prompt:specGraph.reword", "prompt:specGraph.readScenario", "prompt:specGraph.illustrationRow", "prompt:specGraph.contradicts", "prompt:specGraph.followUpRequirements", "prompt:agent.converse", "prompt:agent.customers", "prompt:agent.caseFromReply", "prompt:mermaid.author", "prompt:mermaid.repair", "prompt:prose.rewrite", "prompt:requirementComposer.converse", "prompt:specValidator.analysis", "prompts.turn", "prompt:assistant.chat", "prompt:assistant.chat.propose", "specGraph.accessRules"],
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNVF0Y1FvSjlkNnUveWxZWXFFQ1JRcmZ4L01UeW9mV3JBRG1wOG1OQ3Arbmd5dUdxbm45MkllOTRLR1N4alNEdWMxV0Iva2JyMDJUUmQ2NHFxMVlmb0Y3WUZNRUNRNUFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTIwNzIxCWZpbGU6a29nZW50LmFwcC50YXIuZ3oJdmVyc2lvbjoxLjEwNC4wCkNpL05zRkZRN1VxOXVZYXEva1NMK0NiSThBeXBtY2ZZUFhQb2djWkJyU2sySmEwaEhRSHVSSEhtaUo4ajIvMGJmU2piRmV4Y0pUYjE2Qk8xTVV3L0N3PT0K",
-      "url": "https://github.com/majordomobuild/releases/releases/download/kogent-v1.104.0/kogent.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNVF0Y1FvSjlkNm9vNkxRMGlBT0pFcTliVXlTVjlENFBPcUFzNHQrMHI5MjFhZmtMV1llYXlPR1ZnaUQyT21lZWRFMFVTcGtXZGJlZHFkOTVVTTNlWmZnd0lmRy8ySUFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTM4ODc3CWZpbGU6a29nZW50LmFwcC50YXIuZ3oJdmVyc2lvbjoxLjEwNS4wCkcwT08vUXprbzNOVnJhZ3BURDdXMVNQemIwS3BvNjV2UlFWNEpRL2tEU0xsZnZqTkdUeGRBVjhRVXJVblVNRTVOZDBkT3oxUjB4ZG5WM1BDN1RNMkNBPT0K",
+      "url": "https://github.com/majordomobuild/releases/releases/download/kogent-v1.105.0/kogent.app.tar.gz"
     }
   }
 }
