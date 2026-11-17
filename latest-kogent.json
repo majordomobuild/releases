@@ -1,12 +1,12 @@
 {
-  "version": "1.125.0",
-  "notes": "Kogent kogent-v1.125.0",
-  "pub_date": "2026-11-17T14:45:43Z",
-  "requires": ["prompts.run", "prompt:featureSummary.draft", "prompt:featureOutcome.draft", "prompt:requirements.draftFromText", "prompt:specImpact.classify", "prompt:specImpact.assess", "prompt:bug.suggestFeature", "prompt:roadmap.planImport", "prompt:newApp.describe", "prompt:specGraph.reword", "prompt:specGraph.readScenario", "prompt:specGraph.illustrationRow", "prompt:specGraph.contradicts", "prompt:specGraph.followUpRequirements", "prompt:agent.converse", "prompt:agent.customers", "prompt:agent.caseFromReply", "prompt:mermaid.author", "prompt:mermaid.repair", "prompt:prose.rewrite", "prompt:requirementComposer.converse", "prompt:specValidator.analysis", "prompt:foundations.boxCheck", "prompts.turn", "prompt:assistant.chat", "prompt:assistant.chat.propose", "prompt:assistant.chat.spec", "prompt:persona.system", "prompt:persona.verdict", "prompt:persona.action", "prompt:persona.skill", "prompts.turn.toolText", "specGraph.accessRules", "specGraph.checkActor", "guidedFoundations", "askKogentSpecs", "storyMapsAsk", "planChangesAsk", "askPages", "problemsToWorkAsk", "askKogentActions.builds", "askKogentReviews", "shipAsk", "setupAsk", "personaPageLinks"],
+  "version": "1.126.0",
+  "notes": "Kogent kogent-v1.126.0",
+  "pub_date": "2026-11-17T16:12:51Z",
+  "requires": ["prompts.run", "prompt:featureSummary.draft", "prompt:featureOutcome.draft", "prompt:requirements.draftFromText", "prompt:specImpact.classify", "prompt:specImpact.assess", "prompt:bug.suggestFeature", "prompt:roadmap.planImport", "prompt:newApp.describe", "prompt:specGraph.reword", "prompt:specGraph.readScenario", "prompt:specGraph.illustrationRow", "prompt:specGraph.contradicts", "prompt:specGraph.followUpRequirements", "prompt:agent.converse", "prompt:agent.customers", "prompt:agent.caseFromReply", "prompt:mermaid.author", "prompt:mermaid.repair", "prompt:prose.rewrite", "prompt:requirementComposer.converse", "prompt:specValidator.analysis", "prompt:foundations.boxCheck", "prompts.turn", "prompt:assistant.chat", "prompt:assistant.chat.propose", "prompt:assistant.chat.spec", "prompt:persona.system", "prompt:persona.verdict", "prompt:persona.action", "prompt:persona.skill", "prompts.turn.toolText", "specGraph.accessRules", "specGraph.checkActor", "guidedFoundations", "askKogentSpecs", "storyMapsAsk", "planChangesAsk", "askPages", "problemsToWorkAsk", "askKogentActions.builds", "askKogentReviews", "shipAsk", "setupAsk", "personaPageLinks", "apiDesignAsk"],
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNVF0Y1FvSjlkNnQzYzB2clhkdXVDQ1VKVTJLRDlRRmxuMnJvV2pqL0NPUER6dzBScTRDdndFdzBsdC8yUGQ3RS80UFRicGdJQnJkNXhGTExNSE5EYjJEYitSWSt4OUFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTI2NzE0CWZpbGU6a29nZW50LmFwcC50YXIuZ3oJdmVyc2lvbjoxLjEyNS4wCnVHQjhFOG0zL2Y4YW10SG9sT0xvdTJvbk5qdzlCaElweEhEU1dDYzFUSmhzR2ZrMGtXNmNKUHZvQkc4akV0bHAvRXhuNjZnbC9HQk9JdU1vOUtQMUJRPT0K",
-      "url": "https://github.com/majordomobuild/releases/releases/download/kogent-v1.125.0/kogent.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNVF0Y1FvSjlkNmgxSWdEUHJTWlUwd3lxdktnZEt0NjdjWVcwSlhFK0oxRktGSUhXQUNLMXVSRkFPdy83MmRPczk3VFJUUTBGelpYUWxBWXVOcnNmK05KOG5GWTNjNmdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTMxOTM5CWZpbGU6a29nZW50LmFwcC50YXIuZ3oJdmVyc2lvbjoxLjEyNi4wCmtyRmNvc2hKRFFLUkN2TldVVWk1UW5MWU15bmJuaU1NS2ZYNHRZTE96WmxyNFN2aWJKOFB3QnVucGxRVEYwRXJWc0lPQ2lhdkx4Q3Bvd0lhTjlZcUNBPT0K",
+      "url": "https://github.com/majordomobuild/releases/releases/download/kogent-v1.126.0/kogent.app.tar.gz"
     }
   }
 }
