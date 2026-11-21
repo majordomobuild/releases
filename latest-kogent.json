@@ -1,12 +1,12 @@
 {
-  "version": "1.147.0",
-  "notes": "Kogent kogent-v1.147.0",
-  "pub_date": "2026-11-21T01:22:00Z",
+  "version": "1.147.1",
+  "notes": "Kogent kogent-v1.147.1",
+  "pub_date": "2026-11-21T03:25:52Z",
   "requires": ["prompts.run", "prompt:featureSummary.draft", "prompt:featureOutcome.draft", "prompt:requirements.draftFromText", "prompt:specImpact.classify", "prompt:specImpact.assess", "prompt:bug.suggestFeature", "prompt:roadmap.planImport", "prompt:newApp.describe", "prompt:specGraph.reword", "prompt:specGraph.readScenario", "prompt:specGraph.illustrationRow", "prompt:specGraph.contradicts", "prompt:specGraph.followUpRequirements", "prompt:agent.converse", "prompt:agent.customers", "prompt:agent.caseFromReply", "prompt:mermaid.author", "prompt:mermaid.repair", "prompt:prose.rewrite", "prompt:requirementComposer.converse", "prompt:specValidator.analysis", "prompt:foundations.boxCheck", "prompts.turn", "prompt:assistant.chat", "prompt:assistant.chat.propose", "prompt:assistant.chat.spec", "prompt:persona.system", "prompt:persona.verdict", "prompt:persona.action", "prompt:persona.skill", "prompts.turn.toolText", "specGraph.accessRules", "specGraph.checkActor", "guidedFoundations", "askKogentSpecs", "storyMapsAsk", "planChangesAsk", "askPages", "problemsToWorkAsk", "askKogentActions.builds", "askKogentReviews", "shipAsk", "setupAsk", "personaPageLinks", "apiDesignAsk", "screensAsk", "agentsAsk", "agentChangesAsk", "agentSuggestAsk", "askGuides"],
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNVF0Y1FvSjlkNnNvR0lrbzVnZE1lc3Y1OUhXOTVpOWNNb25xeUNFTDNNMDA0djVwbVV6QXdVSDNLQWRQeE9BKy9aMy9EdjNWTVIzRWg1RjlYQjY3dUMrMlZvbERPM3c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MjIzNzIzCWZpbGU6a29nZW50LmFwcC50YXIuZ3oJdmVyc2lvbjoxLjE0Ny4wCmszY0FEb0Vrd3VnbVdGN2htMGNtaGJTSEFzTWdqeStDaEw5K2J6WXIrNTVXU0JDc1ZCbm5XQmZjM2NUTkFudUFGSTJVeTBJanRWNml6VUJtVGllZkNRPT0K",
-      "url": "https://github.com/majordomobuild/releases/releases/download/kogent-v1.147.0/kogent.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNVF0Y1FvSjlkNm92bXk2ZmFLaXg0SlBkeEV4Z0tRVFNHaC82TGE0dlVnSUl3cC9FeWdHSlBwUVhGZ3dPaVBZVVVucFhsNGpoWSt1NktCcmFYd3h6SlZieFJHMzR0NVFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MjMxNDk0CWZpbGU6a29nZW50LmFwcC50YXIuZ3oJdmVyc2lvbjoxLjE0Ny4xClZqcWdNeWljd0hhWVBvbjM2aHNBL2V2ZTlDQmlERUNVRVk2cy9vRXJSSHlLdkp1dnhQelJFc2plWlJoMGF3UjBzYXl5cWRXU2RZSzgvZUgrczZVeERBPT0K",
+      "url": "https://github.com/majordomobuild/releases/releases/download/kogent-v1.147.1/kogent.app.tar.gz"
     }
   }
 }
